@@ -34,7 +34,7 @@ a {
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color:#FFFFFF;
+  background-color: #ffffff;
 }
 
 footer {
@@ -55,7 +55,6 @@ footer {
   font-family: "Raleway", sans-serif;
   font-weight: bold;
   color: #4d5ae5;
-   text-transform: uppercase
 }
 
 .logo-two {
@@ -66,14 +65,14 @@ footer {
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
   font-weight: bold;
-   text-transform: uppercase;
+  text-transform: uppercase;
   color: #2e2f42;
 }
 
 .logo-three {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
@@ -85,7 +84,7 @@ footer {
 .logo-four {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
@@ -138,7 +137,7 @@ footer {
   text-align: center;
   color: #fff;
   font-family: "Roboto", sans-serif;
-  width: 496px;
+width: 496px;
   height: 120px;
 }
 
@@ -183,7 +182,7 @@ footer {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 264px;
+width: 264px;
 }
 .title-main-three {
   display: flex;
@@ -260,8 +259,9 @@ footer {
   align-items: center;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
+  text-transform: capitalize;
   text-align: center;
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
@@ -303,7 +303,6 @@ footer {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  font-family: "Roboto", sans-serif;
 }
 .background-two {
   display: flex;
