@@ -104,7 +104,7 @@ footer {
   height: 24px;
 }
 
-#logo-mail {
+.logo-mail {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -113,19 +113,19 @@ footer {
   color: #434455;
 }
 
-#logo-mail:hover {
+.logo-mail:hover {
   color: #404bbf;
 }
 
-#logo-mail:focus {
+.logo-mail:focus {
   color: #404bbf;
 }
 
-#logo-tel:hover {
+.logo-tel:hover {
   color: #404bbf;
 }
 
-#logo-tel:focus {
+.logo-tel:focus {
   color: #404bbf;
 }
 
@@ -135,7 +135,7 @@ footer {
 .stufio-two:focus {
   color: #404bbf;
 }
-#logo-tel {
+.logo-tel {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -403,4 +403,55 @@ footer {
 
 .address- {
   font-style: normal;
+}
+
+
+.Studio-two {
+  display: flex;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+}
+.Studio-three {
+  display: flex;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+
+}
+.Studio-four {
+  display: flex;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  
+}
+
+.Studio-two:hover {
+  color: #404bbf 
+}
+.Studio-three:hover {
+  color: #404bbf 
+}
+.Studio-four:hover {
+  color: #404bbf 
+}
+
+.Studio-two:focus {
+  color: #404bbf 
+}
+.Studio-three:focus {
+  color: #404bbf 
+}
+.Studio-four:focus {
+  color: #404bbf 
 }
