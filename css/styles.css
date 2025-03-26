@@ -169,14 +169,25 @@ footer {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #fff;
+  color: #ffffff;
   width: 169px;
   height: 56px;
   background: #4d5ae5;
-  cursor: pointer;
+   background-color: #4D5AE5;
+  
   margin-top: 48px;
   font-family: "Roboto", sans-serif;
 }
+
+.main-bts:hover{
+ background-color: #404BBF;
+cursor: pointer;
+}
+.main-bts:focus{
+background-color: #404BBF;
+
+}
+
 
 .title-main-one {
   display: flex;
@@ -406,7 +417,7 @@ footer {
 }
 
 
-.Studio-two {
+.studio-two {
   display: flex;
   font-weight: 500;
   font-size: 16px;
@@ -415,7 +426,7 @@ footer {
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
 }
-.Studio-three {
+.studio-three {
   display: flex;
   font-weight: 500;
   font-size: 16px;
@@ -425,7 +436,7 @@ footer {
   font-family: "Roboto", sans-serif;
 
 }
-.Studio-four {
+.studio-four {
   display: flex;
   font-weight: 500;
   font-size: 16px;
@@ -436,22 +447,22 @@ footer {
   
 }
 
-.Studio-two:hover {
+.studio-two:hover {
   color: #404bbf 
 }
-.Studio-three:hover {
+.studio-three:hover {
   color: #404bbf 
 }
-.Studio-four:hover {
+.studio-four:hover {
   color: #404bbf 
 }
 
-.Studio-two:focus {
+.studio-two:focus {
   color: #404bbf 
 }
-.Studio-three:focus {
+.studio-three:focus {
   color: #404bbf 
 }
-.Studio-four:focus {
+.studio-four:focus {
   color: #404bbf 
 }
