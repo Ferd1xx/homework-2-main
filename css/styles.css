@@ -173,27 +173,26 @@ footer {
   width: 169px;
   height: 56px;
   background: #4d5ae5;
-   background-color: #4D5AE5;
-  
+  background-color: #4d5ae5;
+
   margin-top: 48px;
   font-family: "Roboto", sans-serif;
 }
 
-.main-bts:hover{
- background-color: #404BBF;
-cursor: pointer;
+.main-bts:hover {
+  background-color: #404bbf;
+  cursor: pointer;
 }
-.main-bts:focus{
-background-color: #404BBF;
-
+.main-bts:focus {
+  background-color: #404bbf;
 }
-
 
 .title-main-one {
   display: flex;
   justify-content: center;
   align-items: center;
   font-family: "Roboto", sans-serif;
+  color: #2e2f42;
 }
 
 .ul-main-one {
@@ -340,12 +339,6 @@ background-color: #404BBF;
   height: 600px;
 }
 
-.content {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-}
 .background-two {
   display: flex;
   justify-content: center;
@@ -416,7 +409,6 @@ background-color: #404BBF;
   font-style: normal;
 }
 
-
 .studio-two {
   display: flex;
   font-weight: 500;
@@ -434,7 +426,6 @@ background-color: #404BBF;
   letter-spacing: 0.02em;
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
-
 }
 .studio-four {
   display: flex;
@@ -444,25 +435,24 @@ background-color: #404BBF;
   letter-spacing: 0.02em;
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
-  
 }
 
 .studio-two:hover {
-  color: #404bbf 
+  color: #404bbf;
 }
 .studio-three:hover {
-  color: #404bbf 
+  color: #404bbf;
 }
 .studio-four:hover {
-  color: #404bbf 
+  color: #404bbf;
 }
 
 .studio-two:focus {
-  color: #404bbf 
+  color: #404bbf;
 }
 .studio-three:focus {
-  color: #404bbf 
+  color: #404bbf;
 }
 .studio-four:focus {
-  color: #404bbf 
+  color: #404bbf;
 }
