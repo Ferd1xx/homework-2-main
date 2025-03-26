@@ -174,14 +174,13 @@ footer {
   height: 56px;
   background: #4d5ae5;
   background-color: #4d5ae5;
-
+cursor: pointer;
   margin-top: 48px;
   font-family: "Roboto", sans-serif;
 }
 
 .main-bts:hover {
   background-color: #404bbf;
-  cursor: pointer;
 }
 .main-bts:focus {
   background-color: #404bbf;
