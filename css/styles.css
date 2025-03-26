@@ -77,7 +77,6 @@ footer {
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
   font-weight: bold;
-  font-weight: bold;
   color: #f4f4fd;
 }
 
@@ -207,6 +206,7 @@ cursor: pointer;
   flex-direction: row;
   gap: 24px;
   margin-top: 72px;
+  
 }
 
 .main-li-two {
