@@ -129,6 +129,12 @@ footer {
   color: #404bbf;
 }
 
+.stufio-two:hover {
+  color: #404bbf;
+}
+.stufio-two:focus {
+  color: #404bbf;
+}
 #logo-tel {
   font-weight: 400;
   font-size: 16px;
