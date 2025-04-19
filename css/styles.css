@@ -1,5 +1,4 @@
 * {
-
 }
 
 a {
@@ -125,7 +124,7 @@ body {
 }
 
 .ul-main-two {
-
+  gap: 24px;
 }
 
 .main-li-two {
@@ -178,6 +177,7 @@ body {
   text-align: center;
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
+  margin-bottom: 72px;
 }
 
 .title-name {
@@ -191,6 +191,7 @@ body {
   letter-spacing: 0.02em;
   font-family: "Roboto", sans-serif;
   color: #f4f4fd;
+  max-width: 264px;
 }
 
 .title-name-three {
@@ -207,9 +208,11 @@ body {
 
 .background-two {
   background-color: #f4f4fd;
+  
 }
 .background-three {
   background: #2e2f42;
+
 }
 
 .background-four {
@@ -223,6 +226,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 .sub-title {
   font-family: "Roboto", sans-serif;
@@ -271,4 +275,12 @@ body {
 }
 .studio-four:focus {
   color: #404bbf;
+}
+
+.section-main {
+ 
+}
+
+.ul-three {
+
 }
